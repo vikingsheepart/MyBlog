@@ -8,4 +8,4 @@ description: > # this means to ignore newlines until "twitter_username:"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
