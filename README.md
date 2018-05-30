@@ -1,2 +1,2 @@
-# blog
+# MY BLOG
 initializing vikingsheepart blog
